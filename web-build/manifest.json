@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "duolingo-clone",
+  "display": "standalone",
+  "lang": "en",
+  "name": "Duolingo",
+  "short_name": "Duolingo",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

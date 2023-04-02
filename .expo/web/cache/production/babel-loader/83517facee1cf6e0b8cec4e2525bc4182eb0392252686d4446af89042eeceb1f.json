@@ -1,0 +1,1 @@
+{"ast":null,"code":"export{default}from\"./OpenEndedQuestion\";","map":{"version":3,"names":["default"],"sources":["C:/Users/Dell/projects/Duolingo/src/components/OpenEndedQuestion/index.js"],"sourcesContent":["export { default } from \"./OpenEndedQuestion\";\r\n"],"mappings":"AAAA,OAASA,OAAO"},"metadata":{},"sourceType":"module","externalDependencies":[]}

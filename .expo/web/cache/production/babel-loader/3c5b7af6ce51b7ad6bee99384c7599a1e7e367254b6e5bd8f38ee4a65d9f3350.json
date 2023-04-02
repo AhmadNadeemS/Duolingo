@@ -1,0 +1,1 @@
+{"ast":null,"code":"export{default}from\"./WordOption.js\";","map":{"version":3,"names":["default"],"sources":["C:/Users/Dell/projects/Duolingo/src/components/WordOption/index.js"],"sourcesContent":["export { default } from \"./WordOption.js\";\r\n"],"mappings":"AAAA,OAASA,OAAO"},"metadata":{},"sourceType":"module","externalDependencies":[]}
